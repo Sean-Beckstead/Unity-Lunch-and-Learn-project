@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{620B5560-3627-1F9C-C05B-53DF64327673}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Player.cs">
+    <Files>
+      <File FileName="Assets/Game Assets/Scripts/LaunchButton.cs" Line="24" Column="2" />
+      <File FileName="Assets/Game Assets/Scripts/TargetLauncher.cs" Line="7" Column="36" />
+      <File FileName="Assets/Player.cs" Line="33" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.LunchAndLearnDemo PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
